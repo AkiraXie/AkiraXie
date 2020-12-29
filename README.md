@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Akiraxie's github stats](https://github-readme-stats.vercel.app/api?username=AkiraXie&count_private=true&theme=buefy)
+
 <!--
 **AkiraXie/AkiraXie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
