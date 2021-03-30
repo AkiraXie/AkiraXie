@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Golang/Java
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on nonebot2
 - 🤔 I’m looking for help about how to find a backend job
 - 😄 Pronouns: learn, practice, and to be stronger
