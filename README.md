@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on Python
+- 🔭 I’m currently working on Python/Java
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on nonebot2
-- 🤔 I’m looking for help about how to find a backend job
+- 🤔 I’m looking for help about backend
 - 😄 Pronouns: learn, practice, and to be stronger
 
