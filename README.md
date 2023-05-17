@@ -6,7 +6,5 @@
 
 
 - 🔭 I’m currently working on Python/Golang
-- 🌱 I’m currently learning tidb/k8s/other about backend
 - 👯 I’m looking to collaborate on nonebot/PingCAP
-- 😄 Pronouns: learn, practice, and to be stronger
 
